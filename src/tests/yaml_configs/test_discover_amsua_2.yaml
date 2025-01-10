@@ -9,5 +9,5 @@ search_info:
     platform: discover
 bufr_files: 
   - gdas1.%.t%z.1bamua.tm00.bufr_d
-work_dir: '$PWD'
+work_dir: ''
 scrub_files: False
